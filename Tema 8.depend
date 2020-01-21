@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1579606447 source:d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\main.cpp
+	<iostream>
+	<string.h>
+	"articolCosmetic.h"
+	"articolAlimentar.h"
+	"articolBauturi.h"
+	"articol.h"
+
+1579605272 source:d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\articol.cpp
+	<stdio.h>
+	<iostream>
+	<string.h>
+	"articol.h"
+
+1579605202 d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\articol.h
+
+1579606179 d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\articolcosmetic.h
+	"articol.h"
+
+1579605394 d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\articolalimentar.h
+	"articol.h"
+
+1579606323 d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\articolbauturi.h
+	"articol.h"
+
+1579606504 source:d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\articolalimentar.cpp
+	<iostream>
+	"articol.h"
+	"articolAlimentar.h"
+	<string.h>
+
+1579606509 source:d:\repo\projects\utm\2019-an2\sem1\oop\tema\tema 8\articolbauturi.cpp
+	<iostream>
+	"articol.h"
+	"articolBauturi.h"
+	<string.h>
+
